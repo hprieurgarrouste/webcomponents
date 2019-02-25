@@ -1,5 +1,6 @@
 /**
- * 
+ * dhd calendard
+ * webComponents
  */
 class HpgCalendar extends HTMLElement {
 	constructor() {
